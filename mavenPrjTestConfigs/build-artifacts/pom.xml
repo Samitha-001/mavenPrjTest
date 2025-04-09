@@ -13,4 +13,12 @@
   <packaging>pom</packaging>
   <name>mavenPrjTestConfigs_module</name>
   <description>mavenPrjTestConfigs_module</description>
+  <modules>
+    <module>api/testApi</module>
+    <module>metadata/testApi_swagger</module>
+    <module>metadata/testApi_metadata</module>
+    <module>sequences/sample</module>
+    <module>proxy-services/proxyTest</module>
+    <module>metadata/proxyTest_proxy_metadata</module>
+  </modules>
 </project>

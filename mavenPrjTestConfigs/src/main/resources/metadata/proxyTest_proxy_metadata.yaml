@@ -1,0 +1,10 @@
+---
+key: "proxyTest_proxy-1.0.0"
+name : "proxyTest"
+displayName : "proxyTest"
+description: "Sample Proxy Service"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/services/proxyTest"
+definitionType: "WSDL1"
+securityType: "BASIC"
+mutualSSLEnabled: false
