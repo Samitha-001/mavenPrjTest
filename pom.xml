@@ -13,9 +13,9 @@
     <module>mavenPrjTestCompositeExporter</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/username/repository.git</connection>
-    <developerConnection>scm:git:https://github.com/username/repository.git</developerConnection>
-    <url>https://github.com/username/repository.git</url>
+    <connection>scm:git:https://github.com/Samitha-001/mvnPrjTest.git</connection>
+    <developerConnection>scm:git:https://github.com/Samitha-001/mvnPrjTest.git</developerConnection>
+    <url>https://github.com/Samitha-001/mvnPrjTest.git</url>
   </scm>
   <distributionManagement>
     <repository>
